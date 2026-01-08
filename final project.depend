@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767888280 source:c:\users\envy\documents\codeblock\helloworld\final project\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

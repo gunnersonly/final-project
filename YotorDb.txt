@@ -1,0 +1,3 @@
+admin Admin 1234 Boss
+@el_capitanios User 12345 natnael 
+@admin123 admin 123456 girma
